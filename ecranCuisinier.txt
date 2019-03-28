@@ -1,0 +1,2 @@
+Commande n°1, CheeseBurger, Frites, Coca
+Commande n°2, MaxiBurger, Frites, Orange
